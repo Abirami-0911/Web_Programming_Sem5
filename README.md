@@ -1,6 +1,6 @@
-# Dear Future Me — The Memory Universe 💜💗
+# Dear Future Me — The Memory Universe 💜
 
-A frontend-only React mini project with a dreamy lavender, blush-pink and midnight-plum theme.
+A frontend-only React mini project.
 
 ## Requirements
 - Node.js (LTS recommended)
